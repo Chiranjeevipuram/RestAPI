@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-12T23:03:24 IST" name="Suite" finished-at="2023-05-12T23:03:31 IST" duration-ms="6831">
+    <groups>
+    </groups>
+    <test started-at="2023-05-12T23:03:24 IST" name="Test" finished-at="2023-05-12T23:03:31 IST" duration-ms="6831">
+      <class name="Day8.APIChainUpdateUser">
+        <test-method signature="uodateuser(org.testng.ITestContext)[pri:0, instance:Day8.APIChainUpdateUser@5ba3f27a]" started-at="2023-05-12T23:03:29 IST" name="uodateuser" finished-at="2023-05-12T23:03:30 IST" duration-ms="893" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@28dcca0c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- uodateuser -->
+      </class> <!-- Day8.APIChainUpdateUser -->
+      <class name="Day8.APIChainingDeleteUser">
+        <test-method signature="deleteuser(org.testng.ITestContext)[pri:0, instance:Day8.APIChainingDeleteUser@58d75e99]" started-at="2023-05-12T23:03:30 IST" name="deleteuser" finished-at="2023-05-12T23:03:31 IST" duration-ms="841" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@28dcca0c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteuser -->
+      </class> <!-- Day8.APIChainingDeleteUser -->
+      <class name="Day8.APIChainingGETUser">
+        <test-method signature="getuser(org.testng.ITestContext)[pri:0, instance:Day8.APIChainingGETUser@21e360a]" started-at="2023-05-12T23:03:28 IST" name="getuser" finished-at="2023-05-12T23:03:29 IST" duration-ms="653" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@28dcca0c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getuser -->
+      </class> <!-- Day8.APIChainingGETUser -->
+      <class name="Day8.APIChainingCreateUser">
+        <test-method signature="createuser(org.testng.ITestContext)[pri:0, instance:Day8.APIChainingCreateUser@1da2cb77]" started-at="2023-05-12T23:03:24 IST" name="createuser" finished-at="2023-05-12T23:03:28 IST" duration-ms="4338" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@28dcca0c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createuser -->
+      </class> <!-- Day8.APIChainingCreateUser -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

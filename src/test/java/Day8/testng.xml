@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="Day8.APIChainingCreateUser"/>
+      <class name="Day8.APIChainingGETUser"/>
+      <class name="Day8.APIChainUpdateUser"/>
+      <class name="Day8.APIChainingDeleteUser"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
